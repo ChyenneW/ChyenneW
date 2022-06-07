@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChyenneW
-- 😊 I like see new places, trying new things and tasting new foods. My goal is to one day 
+- 😊 I like going to new places, trying new things and tasting new foods. My goal is to one day 
 become a #digitalnomad travling the world 🌎 while I work as a front-end developer 👩‍💻. My handle 
 is the same on Linkdin so if you'd like to make a new connection, I'd love to join your network! 😄
 
