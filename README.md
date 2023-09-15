@@ -4,19 +4,24 @@
 <
 
 <div className="socialMedias" align="center">
-  <a href="/"></a> 
-  <a href="/"></a> 
-  <a href="/"></a> 
-  <a href="/"></a> 
-  <a href="/"></a> 
-  <a href="/"></a>
-  
+  <a href="https://www.chyennew.dev">
   <p>Portfolio<p>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">  
+  </a> 
+  <a href="/">  
   <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white" alt="discord">
+  </a> 
+  <a href="/">  
   <img src="https://img.shields.io/badge/Slack-hotpink?logo=slack&logoColor=white" alt="slack">
-  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube"/>
+  </a> 
+  <a href="/">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube"/>  
+  </a> 
+  <a href="https://github.com/ChyenneW">  
   <img src="https://img.shields.io/badge/GitHub-purple?logo=github&logoColor=white" alt="github">
+  </a>  
 </div>
 
 - 👋 Hi, I’m @ChyenneW
