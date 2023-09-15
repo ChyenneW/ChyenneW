@@ -3,20 +3,27 @@
 </div>
 <
 
+<div className="socialMedias" align="center">
+  <a href="/"></a> 
+  <a href="/"></a> 
+  <a href="/"></a> 
+  <a href="/"></a> 
+  <a href="/"></a> 
+  <a href="/"></a>
+  
+  <p>Portfolio<p>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white" alt="discord">
+  <img src="https://img.shields.io/badge/Slack-hotpink?logo=slack&logoColor=white" alt="slack">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube"/>
+  <img src="https://img.shields.io/badge/GitHub-purple?logo=github&logoColor=white" alt="github">
+</div>
+
 - 👋 Hi, I’m @ChyenneW
 - 😊 I like going to new places, trying new things and tasting new foods. My goal is to one day 
 become a #digitalnomad travling the world 🌎 while I work as a front-end developer 👩‍💻. My handle 
 is the same on Linkdin so if you'd like to make a new connection, I'd love to join your network! 😄
 
-<div className="socialMedias">
-  <p>Portfolio<p>
-  <p>GitHub</p>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-  <p>Slack</p>
-  <p>Discord</p>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
 
 ```yaml
 * YOUR TEXT GOES HERE *
