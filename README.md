@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZueDR1Mm5yNHVyaWN2anpudnFqbGJtYXA3eDJkeTdtNmc3aTNqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eMJXDJqSOVzQjFJ8Wv/giphy.gif" width="200px"/>
 </div>
-<
 
-<div className="socialMedias" align="center">
+
+<div id="socialMedias" align="center">
   <a href="https://www.chyennew.dev">
   <p>Portfolio<p>
   </a> 
@@ -23,7 +23,11 @@
   <img src="https://img.shields.io/badge/GitHub-purple?logo=github&logoColor=white" alt="github">
   </a>  
 </div>
+<div align="center" >  
+<img src="https://komarev.com/ghpvc/?username=ChyenneW&style=flat&color=blueviolet"/>
+</div>
 
+### :woman_technologist: About Me :
 - 👋 Hi, I’m @ChyenneW
 - 😊 I like going to new places, trying new things and tasting new foods. My goal is to one day 
 become a #digitalnomad travling the world 🌎 while I work as a front-end developer 👩‍💻. My handle 
