@@ -7,7 +7,7 @@
   <a href="https://www.chyennew.dev">
   <p>Portfolio<p>
   </a> 
-  <a href="/">
+  <a href="https://linkedin.com/in/chyennew">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a> 
   <a href="/">  
