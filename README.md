@@ -29,13 +29,11 @@
 ---
 
 ### :woman_technologist: About Me :
-- I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 😊 I like going to new places, trying new things and tasting new foods.
-- My goal is to one day become a #digitalnomad travling the world 🌎.
 ```yaml
 const aboutMe ={
-name: Chyenne Williams;
-hobbies:[coding, cooking, drawing];
+name: "Chyenne Williams";
+role: "Front End Developer";
+hobbies: ["Coding", "Cooking", "Drawing"];
 }
 ```
 ---
