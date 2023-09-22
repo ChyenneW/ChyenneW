@@ -33,6 +33,7 @@
 const aboutMe ={
 name: "Chyenne Williams";
 role: "Front End Developer";
+learningExperiances: ["SheCodes Bootcamp", "The Odin Project",];
 hobbies: ["Coding", "Cooking", "Drawing"];
 }
 ```
