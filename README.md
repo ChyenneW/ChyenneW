@@ -4,7 +4,7 @@
 
 <div id="socialMedias" align="center">
   <a href="https://www.chyennew.dev">
-  <p>Portfolio<p>
+  <img src="https://img.shields.io/badge/Portfolio-purple?&logoColor=white" alt="Portfolio"> 
   </a> 
   <a href="https://linkedin.com/in/chyennew">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">  
