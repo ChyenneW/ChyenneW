@@ -3,10 +3,10 @@
 </div>
 
 <div id="socialMedias" align="center">
-  <a href="https://www.chyennew.dev">
+  <a href="https://www.chyennew.dev" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-purple?&logoColor=white" alt="Portfolio"> 
   </a> 
-  <a href="https://linkedin.com/in/chyennew">
+  <a href="https://linkedin.com/in/chyennew" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a> 
   <a href="/">  
@@ -18,7 +18,7 @@
   <a href="/">
   <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube"/>  
   </a> 
-  <a href="https://github.com/ChyenneW">  
+  <a href="https://github.com/ChyenneW" target="blank">  
   <img src="https://img.shields.io/badge/GitHub-purple?logo=github&logoColor=white" alt="github">
   </a>  
 </div>
