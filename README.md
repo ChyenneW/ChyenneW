@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/chyennew" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">  
   </a> 
-  <a href="/">  
+  <a href="https://discord.com/invite/7PR78zk3AY">  
   <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white" alt="discord">
   </a> 
   <a href="/">  
