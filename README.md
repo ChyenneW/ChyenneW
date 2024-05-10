@@ -35,6 +35,7 @@ name: "Chyenne Williams";
 role: "Front End Developer";
 learningExperiances: ["SheCodes Bootcamp", "The Odin Project",];
 codingExperiances: ["ShowCode 2022 Hackathon",];
+currentProjects: ["Boutique Bot"];
 hobbies: ["Coding", "Cooking", "Drawing"];
 }
 ```
@@ -57,7 +58,6 @@ hobbies: ["Coding", "Cooking", "Drawing"];
 ---
 ### :fire: My Repositories :
 <div align="center">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=Meme_Wave&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-weather-apps&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-dictionary-project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=The-Odin-Project_Foundations&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
