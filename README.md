@@ -89,6 +89,8 @@ hobbies: ["Coding", "Cooking", "Drawing"];
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChyenneW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+![Snake animation](https://github.com/chyennew/chyennew/blob/output/github-contribution-grid-snake.svg)
+
 
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif" width="100px"/>
