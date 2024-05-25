@@ -30,14 +30,29 @@
 
 ### :woman_technologist: About Me :
 ```yaml
-const aboutMe ={
-name: "Chyenne Williams";
-role: "Front End Developer";
-learningExperiances: ["SheCodes Bootcamp", "The Odin Project",];
-codingExperiances: ["ShowCode 2022 Hackathon",];
-currentProjects: ["Boutique Bot"];
+name: Chyenne Williams
+located_in: Texas, USA
+role: Front-End Developer
+education:
+  [
+    "SheCodes Bootcamp",
+    "Bachelors's in Psychology",
+  ]
+
+fields_of_interest:
+  [
+    "Web Development",
+    "Bot Developlent",
+  ]
+
+coding_experiances:
+  [
+    "ShowCode 2022 Hackathon",
+    "The Odin Project",
+  ]
+
+current_projects: ["Boutique Bot"];
 hobbies: ["Coding", "Cooking", "Drawing"];
-}
 ```
 ---
 
