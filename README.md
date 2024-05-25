@@ -73,24 +73,33 @@ hobbies: ["Coding", "Cooking", "Drawing"];
 ---
 ### :fire: My Repositories :
 <div align="center">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-weather-apps&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-dictionary-project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=The-Odin-Project_Foundations&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=Etch-a-sketch_JS&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-weather-apps&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=react-dictionary-project&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChyenneW&repo=Etch-a-sketch_JS&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
 </div>
 
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChyenneW&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChyenneW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chyennew&show_icons=true&hide=prs,contribs&theme=dracula&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chyennew&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+</a>
+
+
+<div>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ChyenneW&theme=dracula&hide_border=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github.com/chyennew/chyennew/blob/output/github-contribution-grid-snake.svg"/>
+</a>
 </div>
 
-![Snake animation](https://github.com/chyennew/chyennew/blob/output/github-contribution-grid-snake.svg)
-
+---
 
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/UNOX4x1R71hnOqtsXp/giphy.gif" width="100px"/>
